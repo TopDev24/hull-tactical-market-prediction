@@ -12,7 +12,8 @@ The Hull Tactical Market Prediction competition challenges participants to predi
 ├── main.py              # Main submission file with prediction function
 ├── requirements.txt     # Python dependencies
 ├── README.md           # This file
-└── .gitignore          # Git ignore patterns
+├── .gitignore          # Git ignore patterns
+└── LICENSE             # MIT License
 ```
 
 ## Setup
@@ -69,4 +70,6 @@ To improve the model:
 
 ## License
 
-This project is for competition purposes only.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This code is developed for the Hull Tactical Market Prediction competition and is shared for educational and collaborative purposes.
